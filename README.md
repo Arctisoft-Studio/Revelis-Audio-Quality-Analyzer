@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Audio Quality Analyzer for Windows</strong></p>
 
-<p align="center">Measure, compare and verify audio — with the evidence behind every result.</p>
+<p align="center">Measure, compare and verify audio, with the evidence behind every result</p>
 
 <p align="center">
   <a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/releases/latest"><strong>Download</strong></a> ·
