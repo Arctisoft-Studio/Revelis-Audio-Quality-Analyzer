@@ -20,19 +20,19 @@
 
 [![Revelis with a completed analysis: spectrogram, waveform, measurement inspector and findings](images/revelis-analysis.png)](https://arctisoft-studio.com/software/revelis/)
 
-<p align="center"><sub>The Analysis workspace: spectrogram, waveform and programme overview, the measurement inspector and timestamped findings. More views in the <a href="https://arctisoft-studio.com/software/revelis/">product gallery</a>.</sub></p>
+<p align="center"><sub>The Analysis workspace: spectrogram, waveform and program overview, the measurement inspector and timestamped findings. More views in the <a href="https://arctisoft-studio.com/software/revelis/">product gallery</a>.</sub></p>
 
-Revelis is the audio measurement workstation of Arctisoft Studio. Analyse files, folders and live input; inspect loudness, peaks, dynamics, spectrum and stereo behaviour; compare two masters; and check a delivery against a named specification. Measurements, technical findings and delivery verdicts are kept separate, and each states its coverage and limits, so you can see exactly what a result establishes.
+Revelis is the audio measurement workstation of Arctisoft Studio. Analyze files, folders and live input; inspect loudness, peaks, dynamics, spectrum and stereo behavior; compare two masters; and check a delivery against a named specification. Measurements, technical findings and delivery verdicts are kept separate, and each states its coverage and limits, so you can see exactly what a result establishes.
 
 ## Capabilities
 
 - **Measurement.** Integrated, short-term and momentary loudness, loudness range, sample and true peak, dynamics, stereo correlation and multichannel loudness for declared speaker layouts.
 - **Findings with evidence.** Clipping, inter-sample overs, discontinuities, clicks, silence, bandwidth and bit-depth indicators, each with time, channel, measured value and confidence, linked to its position in the waveform and spectrogram.
-- **Coverage you can trust.** Quick Scan measures representative regions, Deep Scan the whole programme; the report records what was actually measured, and failed or incomplete decoding is never presented as clean.
+- **Coverage you can trust.** Quick Scan measures representative regions, Deep Scan the whole program; the report records what was actually measured, and failed or incomplete decoding is never presented as clean.
 - **Compare.** Two sources through the same measurement pipeline, with offset and gain alignment, drift and polarity checks, and codec preview of AAC, MP3 and Opus.
 - **Delivery Check.** Verify a master against EBU R 128, ATSC A/85, AES TD1008, Free TV OP-59, Spotify, Netflix, Apple Podcasts or your own house and client specifications — one file or a whole folder — with PDF delivery certificates.
 - **Live and in the DAW.** Realtime input metering with history and markers, and a VST3 companion that measures a bus inside your DAW and hands the session to Revelis.
-- **Formats beyond PCM.** Native DSD (DSF and DSDIFF), high sample rates, multichannel sources and ADM programme rendering to stereo, 5.1, 7.1, 5.1.4 and 7.1.4.
+- **Formats beyond PCM.** Native DSD (DSF and DSDIFF), high sample rates, multichannel sources and ADM program rendering to stereo, 5.1, 7.1, 5.1.4 and 7.1.4.
 - **Records and automation.** Sessions and history, reports in HTML, CSV, JSON and text, SHA-256 archive manifests for later integrity checks, watch folders and a command line with exit codes for pipelines.
 
 A spectrum or bit-pattern observation does not prove a file's original source, lossless ancestry or perceived quality. A delivery result records the requirements that were checked; it does not guarantee acceptance by a distributor or broadcaster.
@@ -55,7 +55,7 @@ Every measurement, detector, finding and verdict is identical in both editions �
 | Report files | On screen, copy as text | HTML, CSV, JSON, text |
 | Realtime and companion session export | Shown live | JSON, CSV |
 | Codec preview (AAC, MP3, Opus) | — | ✓ |
-| VST3 companion and ADM programme rendering | — | ✓ |
+| VST3 companion and ADM program rendering | — | ✓ |
 | Watch folders and archive integrity manifests | — | ✓ |
 | Command line with custom policies and exit codes | — | ✓ |
 
@@ -84,7 +84,7 @@ Revelis checks this repository for updates on the Stable or Preview channel you 
 
 ## Accounts and privacy
 
-Audio is analysed on your computer and is never uploaded for measurement. Local inspection does not require an account; signing in through Studio Hub enables Premium, the trial and optional synchronisation of settings and report metadata. The decoder is downloaded from GitHub, and optional Content Credentials (C2PA) verification uses a pinned verifier and trust list. The [Privacy Policy](https://arctisoft-studio.com/legal/privacy/) describes the account and license data involved.
+Audio is analyzed on your computer and is never uploaded for measurement. Local inspection does not require an account; signing in through Studio Hub enables Premium, the trial and optional synchronization of settings and report metadata. The decoder is downloaded from GitHub, and optional Content Credentials (C2PA) verification uses a pinned verifier and trust list. The [Privacy Policy](https://arctisoft-studio.com/legal/privacy/) describes the account and license data involved.
 
 ## Support
 
@@ -96,4 +96,4 @@ Revelis is proprietary commercial software. This repository holds its public doc
 
 ---
 
-<p align="center"><sub>© 2025–2026 Arctisoft Studio · Bernd Julian Hagen · Austria. All rights reserved.</sub></p>
+<p align="center"><sub>© 2025–2026 Arctisoft Studio. All rights reserved.</sub></p>
