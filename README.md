@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="images/sonaris-logo.png" alt="Sonaris" width="96" height="96">
+  <img src="images/revelis-logo.png" alt="Revelis" width="96" height="96">
 </p>
 
-<h1 align="center">Sonaris</h1>
+<h1 align="center">Revelis</h1>
 
 <p align="center"><strong>Audio Quality Analyzer for Windows</strong></p>
 
 <p align="center">Measure, compare and verify audio — with the evidence behind every result.</p>
 
 <p align="center">
-  <a href="https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer/releases/latest"><strong>Download</strong></a> ·
-  <a href="https://arctisoft-studio.com/software/sonaris/">Product website</a> ·
+  <a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/releases/latest"><strong>Download</strong></a> ·
+  <a href="https://arctisoft-studio.com/software/revelis/">Product website</a> ·
   <a href="https://arctisoft-studio.com/pricing/">Editions &amp; pricing</a> ·
-  <a href="https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer/releases">Release notes</a> ·
+  <a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/releases">Release notes</a> ·
   <a href="https://arctisoft-studio.com/support/">Support</a>
 </p>
 
 <br>
 
-[![Sonaris with a completed analysis: spectrogram, waveform, measurement inspector and findings](images/sonaris-analysis.png)](https://arctisoft-studio.com/software/sonaris/)
+[![Revelis with a completed analysis: spectrogram, waveform, measurement inspector and findings](images/revelis-analysis.png)](https://arctisoft-studio.com/software/revelis/)
 
-<p align="center"><sub>The Analysis workspace: spectrogram, waveform and programme overview, the measurement inspector and timestamped findings. More views in the <a href="https://arctisoft-studio.com/software/sonaris/">product gallery</a>.</sub></p>
+<p align="center"><sub>The Analysis workspace: spectrogram, waveform and programme overview, the measurement inspector and timestamped findings. More views in the <a href="https://arctisoft-studio.com/software/revelis/">product gallery</a>.</sub></p>
 
-Sonaris is the audio measurement workstation of Arctisoft Studio. Analyse files, folders and live input; inspect loudness, peaks, dynamics, spectrum and stereo behaviour; compare two masters; and check a delivery against a named specification. Measurements, technical findings and delivery verdicts are kept separate, and each states its coverage and limits, so you can see exactly what a result establishes.
+Revelis is the audio measurement workstation of Arctisoft Studio. Analyse files, folders and live input; inspect loudness, peaks, dynamics, spectrum and stereo behaviour; compare two masters; and check a delivery against a named specification. Measurements, technical findings and delivery verdicts are kept separate, and each states its coverage and limits, so you can see exactly what a result establishes.
 
 ## Capabilities
 
@@ -31,7 +31,7 @@ Sonaris is the audio measurement workstation of Arctisoft Studio. Analyse files,
 - **Coverage you can trust.** Quick Scan measures representative regions, Deep Scan the whole programme; the report records what was actually measured, and failed or incomplete decoding is never presented as clean.
 - **Compare.** Two sources through the same measurement pipeline, with offset and gain alignment, drift and polarity checks, and codec preview of AAC, MP3 and Opus.
 - **Delivery Check.** Verify a master against EBU R 128, ATSC A/85, AES TD1008, Free TV OP-59, Spotify, Netflix, Apple Podcasts or your own house and client specifications — one file or a whole folder — with PDF delivery certificates.
-- **Live and in the DAW.** Realtime input metering with history and markers, and a VST3 companion that measures a bus inside your DAW and hands the session to Sonaris.
+- **Live and in the DAW.** Realtime input metering with history and markers, and a VST3 companion that measures a bus inside your DAW and hands the session to Revelis.
 - **Formats beyond PCM.** Native DSD (DSF and DSDIFF), high sample rates, multichannel sources and ADM programme rendering to stereo, 5.1, 7.1, 5.1.4 and 7.1.4.
 - **Records and automation.** Sessions and history, reports in HTML, CSV, JSON and text, SHA-256 archive manifests for later integrity checks, watch folders and a command line with exit codes for pipelines.
 
@@ -39,7 +39,7 @@ A spectrum or bit-pattern observation does not prove a file's original source, l
 
 ## Editions
 
-Every measurement, detector, finding and verdict is identical in both editions — a measurement is never more or less correct because of the edition. Premium adds the delivery and studio workflows around it: results that leave Sonaris and checks that run without you. Every Premium workflow is visible in Basic and explains itself at the step where it starts.
+Every measurement, detector, finding and verdict is identical in both editions — a measurement is never more or less correct because of the edition. Premium adds the delivery and studio workflows around it: results that leave Revelis and checks that run without you. Every Premium workflow is visible in Basic and explains itself at the step where it starts.
 
 | | Basic · free | Premium |
 | --- | :---: | :---: |
@@ -68,19 +68,19 @@ Premium is a one-time purchase for one person, covering the licensed major versi
 | Operating system | Windows 10 or Windows 11, 64-bit (x64) |
 | Runtime | Included with the installer |
 | Installation | For your Windows user account; administrator rights are not required |
-| Decoder | FFmpeg, downloaded and kept current by Sonaris on first use |
-| Plug-ins | A VST3 host, for the Sonaris companion |
+| Decoder | FFmpeg, downloaded and kept current by Revelis on first use |
+| Plug-ins | A VST3 host, for the Revelis companion |
 | Internet | For the decoder download, sign-in, licensing and updates; analysis works offline |
 
-Sonaris probes and decodes the actual media rather than trusting the file extension. Common PCM, lossless and lossy formats, multichannel WAV/RF64/BW64 and native DSD are supported; a damaged or unusual file is reported with the reason it could not be measured completely.
+Revelis probes and decodes the actual media rather than trusting the file extension. Common PCM, lossless and lossy formats, multichannel WAV/RF64/BW64 and native DSD are supported; a damaged or unusual file is reported with the reason it could not be measured completely.
 
 ## Installation and updates
 
-1. Download `v<version>-sonaris.exe` from the [latest release](https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer/releases/latest).
+1. Download `v<version>-revelis.exe` from the [latest release](https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/releases/latest).
 2. Run the installer and accept the license agreement. Setup can also install [Arctisoft Studio Hub](https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub).
-3. Start Sonaris. Sign in through Studio Hub when you want Premium or the trial.
+3. Start Revelis. Sign in through Studio Hub when you want Premium or the trial.
 
-Sonaris checks this repository for updates on the Stable or Preview channel you choose, and installs a new version only after verifying it against the SHA-256 checksum GitHub publishes for the release. Studio Hub can install and update the whole Arctisoft collection from one place.
+Revelis checks this repository for updates on the Stable or Preview channel you choose, and installs a new version only after verifying it against the SHA-256 checksum GitHub publishes for the release. Studio Hub can install and update the whole Arctisoft collection from one place.
 
 ## Accounts and privacy
 
@@ -88,11 +88,11 @@ Audio is analysed on your computer and is never uploaded for measurement. Local 
 
 ## Support
 
-Open the user guide from **Help**, visit [Arctisoft Support](https://arctisoft-studio.com/support/) or write to [support@arctisoft-studio.com](mailto:support@arctisoft-studio.com). Report reproducible problems and suggest improvements through [GitHub Issues](https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer/issues). Please keep license keys, account details and private audio out of public reports.
+Open the user guide from **Help**, visit [Arctisoft Support](https://arctisoft-studio.com/support/) or write to [support@arctisoft-studio.com](mailto:support@arctisoft-studio.com). Report reproducible problems and suggest improvements through [GitHub Issues](https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/issues). Please keep license keys, account details and private audio out of public reports.
 
 ## License
 
-Sonaris is proprietary commercial software. This repository holds its public documentation and official releases; the source code is not published. Use is governed by the [Sonaris EULA](LICENSE), the [Arctisoft Studio License Agreement](https://arctisoft-studio.com/legal/license/) and the [Terms of Service](https://arctisoft-studio.com/legal/terms/). Third-party components, including FFmpeg, keep their own licenses and are listed in the third-party notices installed with Sonaris. VST is a registered trademark of Steinberg Media Technologies GmbH.
+Revelis is proprietary commercial software. This repository holds its public documentation and official releases; the source code is not published. Use is governed by the [Revelis EULA](LICENSE), the [Arctisoft Studio License Agreement](https://arctisoft-studio.com/legal/license/) and the [Terms of Service](https://arctisoft-studio.com/legal/terms/). Third-party components, including FFmpeg, keep their own licenses and are listed in the third-party notices installed with Revelis. VST is a registered trademark of Steinberg Media Technologies GmbH.
 
 ---
 

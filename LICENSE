@@ -1,4 +1,4 @@
-Sonaris - Audio Quality Analyzer
+Revelis - Audio Quality Analyzer
 End User License Agreement (EULA)
 
 Copyright (c) 2025-2026 Arctisoft Studio / Bernd Julian Hagen
@@ -14,7 +14,7 @@ apply.
 1. LICENSE GRANT
 
 Arctisoft Studio grants you a non-exclusive, non-transferable,
-royalty-free license to install and use Sonaris - Audio Quality Analyzer
+royalty-free license to install and use Revelis - Audio Quality Analyzer
 ("Software") on any Windows computer you own or control, for personal and
 commercial audio quality analysis.
 
@@ -24,7 +24,7 @@ You may:
 
   - Install the Software on an unlimited number of your own computers.
   - Use the Software for personal and commercial audio quality analysis,
-    including the Sonaris VST 3 companion in other applications.
+    including the Revelis VST 3 companion in other applications.
   - Make backup copies of the installer for personal archival purposes.
   - Distribute the original, unmodified installer for promotional
     purposes.
@@ -46,9 +46,9 @@ You may not:
 
 4. EDITIONS AND LICENSE KEY
 
-Sonaris can be installed and used free of charge; every measurement and
+Revelis can be installed and used free of charge; every measurement and
 finding is the same in both editions. The Premium edition adds the
-workflows where a result leaves Sonaris or runs without you: report
+workflows where a result leaves Revelis or runs without you: report
 export, further delivery targets, codec preview, the command line and the
 other items of the edition table in Help > License. A 14-day trial is
 available once per computer.
@@ -90,7 +90,7 @@ Account and license (when you sign in through Arctisoft Studio Hub):
 
 Preference sync (optional, off until you turn it on):
 
-When you turn on sync in Settings while signed in, Sonaris stores its
+When you turn on sync in Settings while signed in, Revelis stores its
 portable analysis, comparison, viewport, export-format and delivery
 preferences with your account (Art. 6(1)(b) GDPR). Audio content, file
 paths, media tags, sessions, reports and trust settings are not uploaded.
@@ -98,7 +98,7 @@ paths, media tags, sessions, reports and trust settings are not uploaded.
 Connected features (only when you use them):
 
   - Media tools: when FFmpeg and ffprobe, the C2PA verifier (c2patool) or
-    the C2PA trust list are missing or outdated, Sonaris downloads them
+    the C2PA trust list are missing or outdated, Revelis downloads them
     from their publishers on GitHub and checks each file's published or
     pinned SHA-256 digest before use.
 
@@ -121,11 +121,11 @@ rights not expressly granted herein are reserved.
 
 7. THIRD-PARTY COMPONENTS
 
-Sonaris includes open-source components under their own licenses,
+Revelis includes open-source components under their own licenses,
 including NAudio, R128Net and libebur128, PDFsharp, Newtonsoft.Json and
 Lucide, a clipping-detection method adapted from ClipAway, the EBU ADM
 Renderer with the Python runtime and libraries it is packaged with, and,
-in the Sonaris VST 3 companion, interfaces of the Steinberg VST 3 SDK. VST
+in the Revelis VST 3 companion, interfaces of the Steinberg VST 3 SDK. VST
 is a registered trademark of Steinberg Media Technologies GmbH.
 
 THIRD-PARTY-NOTICES.txt in the installation folder lists every component
@@ -156,13 +156,13 @@ store any payment card information.
 
 9. YOUR RESPONSIBILITIES
 
-When using Sonaris, you are responsible for:
+When using Revelis, you are responsible for:
 
   - Ensuring you have the legal right to analyze the audio content.
   - Complying with all applicable copyright and intellectual property
     laws.
 
-Sonaris is a technical tool for audio quality analysis. Its measurements
+Revelis is a technical tool for audio quality analysis. Its measurements
 and verdicts support, but do not replace, the acceptance checks of a
 platform or broadcaster.
 
