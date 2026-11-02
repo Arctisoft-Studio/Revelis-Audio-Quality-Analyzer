@@ -41,7 +41,7 @@ A spectrum or bit-pattern observation does not prove a file's original source, l
 
 Every measurement, detector, finding and verdict is identical in both editions — a measurement is never more or less correct because of the edition. Premium adds the delivery and studio workflows around it: results that leave Revelis and checks that run without you. Every Premium workflow is visible in Basic and explains itself at the step where it starts.
 
-| | Basic · free | Premium |
+| | Free | Premium |
 | --- | :---: | :---: |
 | File and folder analysis, every detector and finding | ✓ | ✓ |
 | Waveform, spectrum, spectrogram and audition | ✓ | ✓ |
