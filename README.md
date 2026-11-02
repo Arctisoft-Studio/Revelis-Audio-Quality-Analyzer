@@ -30,7 +30,7 @@ Revelis is the audio measurement workstation of Arctisoft Studio. Analyze files,
 - **Findings with evidence.** Clipping, inter-sample overs, discontinuities, clicks, silence, bandwidth and bit-depth indicators, each with time, channel, measured value and confidence, linked to its position in the waveform and spectrogram.
 - **Coverage you can trust.** Quick Scan measures representative regions, Deep Scan the whole program; the report records what was actually measured, and failed or incomplete decoding is never presented as clean.
 - **Compare.** Two sources through the same measurement pipeline, with offset and gain alignment, drift and polarity checks, and codec preview of AAC, MP3 and Opus.
-- **Delivery Check.** Verify a master against EBU R 128, ATSC A/85, AES TD1008, Free TV OP-59, Spotify, Netflix, Apple Podcasts or your own house and client specifications — one file or a whole folder — with PDF delivery certificates.
+- **Delivery Check.** Verify a master against EBU R 128, ATSC A/85, AES TD1008, Free TV OP-59, Spotify, Netflix, Apple Podcasts or your own house and client specifications, for one file or a whole folder, with PDF delivery certificates.
 - **Live and in the DAW.** Realtime input metering with history and markers, and a VST3 companion that measures a bus inside your DAW and hands the session to Revelis.
 - **Formats beyond PCM.** Native DSD (DSF and DSDIFF), high sample rates, multichannel sources and ADM program rendering to stereo, 5.1, 7.1, 5.1.4 and 7.1.4.
 - **Records and automation.** Sessions and history, reports in HTML, CSV, JSON and text, SHA-256 archive manifests for later integrity checks, watch folders and a command line with exit codes for pipelines.
@@ -39,7 +39,7 @@ A spectrum or bit-pattern observation does not prove a file's original source, l
 
 ## Editions
 
-Every measurement, detector, finding and verdict is identical in both editions — a measurement is never more or less correct because of the edition. Premium adds the delivery and studio workflows around it: results that leave Revelis and checks that run without you. Every Premium workflow is visible in Free and explains itself at the step where it starts.
+Every measurement, detector, finding and verdict is identical in both editions: a measurement is never more or less correct because of the edition. Premium adds the delivery and studio workflows around it: results that leave Revelis and checks that run without you. Every Premium workflow is visible in Free and explains itself at the step where it starts.
 
 | | Free | Premium |
 | --- | :---: | :---: |
